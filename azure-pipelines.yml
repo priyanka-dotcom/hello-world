@@ -1,10 +1,10 @@
 # Maven
 ---
-- task: SonarQubePreBuild@1
-  inputs:
-    projectKey: 'c644230e721f4fbe80c04ec12a3fec9d627d9cce'
-    projectName: 'sonar'
-    projectVersion: '1.0'
+#- task: SonarQubePreBuild@1
+#  inputs:
+#    projectKey: 'c644230e721f4fbe80c04ec12a3fec9d627d9cce'
+#    projectName: 'sonar'
+#    projectVersion: '1.0'
 # Build your Java project and run tests with Apache Maven.
 # Add steps that analyze code, save build artifacts, deploy, and more:
 # https://docs.microsoft.com/azure/devops/pipelines/languages/java
