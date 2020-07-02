@@ -1,5 +1,5 @@
 # Maven
-- task: SonarQubePreBuild@1
+--- task: SonarQubePreBuild@1
   inputs:
     projectKey: 'c644230e721f4fbe80c04ec12a3fec9d627d9cce'
     projectName: 'sonar'
